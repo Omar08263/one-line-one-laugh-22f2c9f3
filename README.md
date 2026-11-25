@@ -6,7 +6,7 @@
 
 One Line, One Laugh: a program that writes one text to `/output/entry.txt` — a single original funny line, judged two at a time by a comedy-editor judge.
 
-> I tried meditating to clear my mind, but my thoughts unionised and demanded overtime pay.
+> I finally learned to say no, and my calendar booked a meeting titled 'Re: Your Boundaries.'
 
 ## Run it
 
